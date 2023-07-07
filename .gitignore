@@ -35,4 +35,7 @@ yarn-error.log*
 .contentlayer
 .env
 .vercel
+
+# IDE configurations
+.idea
 .vscode
